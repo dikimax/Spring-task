@@ -1,0 +1,95 @@
+
+			.navbar{
+				padding: 20px;
+				background-color: #800000;
+				display: flex;
+                margin: 1rem;
+			}
+			.logo{
+				width: 40%;
+			}
+
+            .hotnews-container {
+                background-color: #b6faf7;
+                padding: 20px;
+                display: flex;
+                margin: 0px;
+              }
+              
+              .hotnews {
+                display: flex;
+                align-items: center;
+                margin-bottom: 20px;
+              }
+              
+              .conor {
+                width: 300px;
+                height: auto;
+                margin-right: 20px;
+                border-radius: 5px;
+                box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+              }
+              
+              .textconor {
+                flex: 1;
+              }
+              
+              h2 {
+                margin-top: 0;
+                font-size: 24px;
+              }
+              
+              p {
+                margin-bottom: 10px;
+                line-height: 1.5;
+              }
+			.menu{
+				width: 60%;
+				text-align: right;
+			}
+			.logoButton{
+				color: white;
+				text-decoration: none;
+				font-size: 20px;
+			}
+			.menuButton{
+				text-decoration: none;
+				font-size: 18px;
+				color: white;
+				margin-left: 10px;
+			}
+			.products{
+				display: flex;
+				padding: 20px;
+			}
+			.card{
+				width: 25%;
+				border: 1px solid lightgray;
+				border-radius: 5px;
+				margin: 10px;
+			}
+
+			.card-content{
+				padding: 20px;
+			}
+			.image{
+				width: 100%;
+				height: 250px;
+				border-radius: 5px;
+			}
+			.card-title{
+				font-size: 20px;
+				font-weight: bold;
+			}
+			.card-button{
+				background-color: #800000;
+				color: white;
+				text-align: center;
+				padding: 10px 30px 10px 30px;
+				border: 0px;
+				border-radius: 0px;
+			}
+			.textcenter{
+				text-align: center;
+                padding: 1rem;
+			}
